@@ -1,7 +1,7 @@
-package com.example.demo.controllers;
+package com.example.nika.controller;
 
-import com.example.demo.models.ClienteModel;
-import com.example.demo.services.ClienteService;
+import com.example.nika.model.ClienteModel;
+import com.example.nika.service.ClienteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

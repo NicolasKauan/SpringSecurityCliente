@@ -1,7 +1,7 @@
-package com.example.demo.services;
+package com.example.nika.service;
 
-import com.example.demo.models.ClienteModel;
-import com.example.demo.repositories.ClienteRepository;
+import com.example.nika.model.ClienteModel;
+import com.example.nika.repository.ClienteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

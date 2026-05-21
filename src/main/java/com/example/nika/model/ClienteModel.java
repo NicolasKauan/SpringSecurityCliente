@@ -1,4 +1,4 @@
-package com.example.demo.models;
+package com.example.nika.model;
 
 import jakarta.persistence.*;
 import java.util.List;
@@ -41,7 +41,7 @@ public class ClienteModel {
         return products;
     }
 
-    public void setProducts(List<com.example.demo.models.ProductModel> products) {
+    public void setProducts(List<ProductModel> products) {
         this.products = products;
     }
 }
